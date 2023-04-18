@@ -4,4 +4,4 @@
 
 3D Graph Link: https://nbviewer.org/github/jedsadatha/Insurance_KMeans/blob/main/index.html
 
-![alt text](https://github.com/jedsadatha/Insurance_KMeans/blob/main/images/KMeans_Corr.png)
+![alt text](https://github.com/jedsadatha/Insurance_KMeans/blob/main/images/3D_Preview.png)
